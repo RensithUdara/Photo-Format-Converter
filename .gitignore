@@ -16,9 +16,6 @@ logs/
 *.log
 
 # Environment
-.env
-.env.local
-.env.production
 
 # Upload directories (optional - uncomment to ignore uploaded files)
 # uploads/*
@@ -36,7 +33,6 @@ ehthumbs.db
 Thumbs.db
 
 # IDE
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -47,12 +43,9 @@ Thumbs.db
 coverage/
 
 # Environment variables
-.env
-.env.local
 .env.*.local
 
 # IDEs
-.vscode/
 .idea/
 
 # Misc
@@ -77,3 +70,4 @@ converted/
 *.jpeg
 *.png
 *.webp
+config.bat
