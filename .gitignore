@@ -74,3 +74,4 @@ converted/
 .env.local
 .env.production
 .vscode/
+.env.*
