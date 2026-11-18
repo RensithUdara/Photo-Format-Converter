@@ -70,7 +70,4 @@ converted/
 *.jpeg
 *.png
 *.webp
-.env
-.env.local
-.env.production
-.vscode/
+config.bat
